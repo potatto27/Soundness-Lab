@@ -7,7 +7,7 @@
 ## 📦STEP 1 : Installation Commands:
 ```sudo apt update && sudo apt upgrade -y```
 
-``` curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash ```
+` curl -sSL https://raw.githubusercontent.com/soundnesslabs/soundness-layer/main/soundnessup/install | bash `
 
 ```source ~/.bashrc```
 
